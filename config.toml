@@ -13,7 +13,7 @@ paginate  = 10
 
 archetypeDir = "archetypes"
 contentDir   = "content"
-dataDir      = "data"
+# dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
 
@@ -79,7 +79,7 @@ disableHugoGeneratorInject = false
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-  themeColor = "#252627"
+  themeColor = "#071D2F"
 
   # Colors for favicons
   [params.favicon.color]

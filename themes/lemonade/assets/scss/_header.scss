@@ -7,7 +7,7 @@
   padding: 20px;
 
   .dark-theme & {
-    background: #252627;
+    background: #040f19;
   }
 
   &__right {
@@ -44,7 +44,7 @@
 
 .unselectable {
   user-select: none;
-  -webkit-user-select: none;  
-  -moz-user-select: none;    
-  -ms-user-select: none;      
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
