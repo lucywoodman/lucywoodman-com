@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "I'm Lucy. I'm a remote Happiness Engineer for Flywheel and code-lover."
+  homeSubtitle = "I'm Lucy. I'm a remote Technical Support Engineer, learning to be a Product Engineer."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -110,7 +110,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:lucy.woodman@hey.com"
+    url  = "mailto:lucyjwoodman@gmail.com"
 
   [[params.social]]
     name = "github"
@@ -118,7 +118,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/lucyjwoodman"
+    url  = "https://www.linkedin.com/in/lucyjwoodman/"
 
 [menu]
   [[menu.main]]
