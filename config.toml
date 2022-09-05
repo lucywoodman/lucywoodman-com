@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "I'm Lucy. I'm a remote Production Engineer."
+  homeSubtitle = "I'm Lucy. I'm a remote Production Engineer at WP Engine."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
